@@ -1,1 +1,1 @@
-# Simple-Web-Scraping-with-Python
+# Simple Web Scraping with Python ![Python Logo](/python.png)
