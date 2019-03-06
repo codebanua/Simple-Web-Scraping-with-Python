@@ -22,3 +22,6 @@ $ pip install Flask-Assets
 $ pip install Flask-Babel
 $ pip install Flask-Script
 ```
+
+## Author
+Ahmad Suryani / [@surya_zxc](https://www.instagram.com/surya_zxc)
