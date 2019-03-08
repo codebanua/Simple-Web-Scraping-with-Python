@@ -21,5 +21,14 @@ $ pip install Flask
 $ pip install html5lib
 ```
 
+## How to use Heroku
+```sh
+$ heroku login
+$ heroku git:clone -a yourproject
+$ git add .
+$ git commit -am "make it better"
+$ git push heroku master
+```
+
 ## Author
 Ahmad Suryani / [@surya_zxc](https://www.instagram.com/surya_zxc)
