@@ -18,9 +18,7 @@ $ pip install bs4
 $ pip install html5lib
 $ pip install gunicorn
 $ pip install Flask   
-$ pip install Flask-Assets    
-$ pip install Flask-Babel
-$ pip install Flask-Script
+$ pip install html5lib
 ```
 
 ## Author
