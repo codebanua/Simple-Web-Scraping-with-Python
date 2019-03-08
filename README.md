@@ -18,7 +18,6 @@ $ pip install bs4
 $ pip install html5lib
 $ pip install gunicorn
 $ pip install Flask   
-$ pip install html5lib
 ```
 
 ## How to use Heroku
